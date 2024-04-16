@@ -1,6 +1,4 @@
 ## Introducing Vroom
-![Vroom](https://img.shields.io/badge/Vroom-%230770F2.svg?style=for-the-badge&logo=Vroom&logoColor=white)
-
 Vroom is the carpooling mobile app designed exclusively for university students. It streamlines transportation for students without a vehicle while helping those with cars save on expenses.
 
 ### How We Made It Happen:
