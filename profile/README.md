@@ -1,5 +1,5 @@
 ## Introducing Vroom
-Vroom is the carpooling mobile app designed exclusively for university students. It streamlines transportation for students without a vehicle while helping those with cars save on expenses.
+Vroom is a carpooling mobile app designed exclusively for university students. It streamlines transportation for students without a vehicle while helping those with cars save on expenses.
 
 ### How We Made It Happen:
 
